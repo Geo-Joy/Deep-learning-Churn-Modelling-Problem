@@ -1,6 +1,8 @@
 # Deep-learning-Churn-Modelling-Problem
 Artificial Neural Network that can predict, based on geo-demographical and transactional information given above, if any individual customer will leave the bank or stay
 
+## Numpy, Pandas, Keras(TensorFlow as backend)
+
 Solving a data analytics challenge for a bank. 
 Given a dataset with a large sample of the bank's customers. To make this dataset, the bank gathered information such as customer id, credit score, gender, age, tenure, balance, if the customer is active, has a credit card, etc. During a period of 6 months, the bank observed if these customers left or stayed in the bank. 
 
